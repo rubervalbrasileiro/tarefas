@@ -97,3 +97,15 @@ A documentação técnica completa do projeto, com detalhamento dos módulos, fl
 
 [📄 Documentação Técnica Completa](docs/documentacao-tecnica-tarefas-v1.0.0.pdf)
 
+## 🤝 Agradecimentos e Créditos
+
+Este projeto foi desenvolvido como um exercício prático para consolidar meus conhecimentos em **Engenharia de Software, Git e Node.js**. 
+
+A base técnica e o modelo de arquitetura foram implementados seguindo a trilha de aprendizado da **[Playlist de Desenvolvimento de Tarefas](https://www.youtube.com/playlist?list=PL9tY_tDo_Q0C0hs1aGgtJbEH1EBlyzZdG)** no YouTube. Através deste conteúdo, pude aplicar na prática:
+
+- **Arquitetura Modular**: Separação de responsabilidades entre lógica (`manager`) e interface (`menus`).
+- **Persistência de Dados**: Manipulação e salvamento de estados em arquivos JSON.
+- **Git Flow Profissional**: Uso de mensagens de commit padronizadas e versionamento com Tags (`v1.0.0`).
+
+
+
