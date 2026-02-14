@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Leva as crianças para o parque",
+    "status": "Em andamento",
+    "createdAt": "2026-02-13T13:43:16.364Z"
+  },
+  {
+    "name": "Levar o cachorro para passear",
+    "status": "cancelada",
+    "createdAt": "2026-02-13T15:01:48.643Z"
+  },
+  {
+    "name": "encher a cisterna",
+    "status": "Em andamento",
+    "createdAt": "2026-02-13T15:02:09.971Z"
+  },
+  {
+    "name": "Comprar pão",
+    "status": "concluída",
+    "createdAt": "2026-02-13T15:01:11.970Z"
+  },
+  {
+    "name": "Lavar carro",
+    "status": "concluída",
+    "createdAt": "2026-02-13T13:39:14.927Z"
+  },
+  {
+    "name": "Fazer novos contatos",
+    "status": "concluída",
+    "createdAt": "2026-02-13T13:55:17.928Z"
+  }
+]
