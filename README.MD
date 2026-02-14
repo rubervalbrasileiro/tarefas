@@ -91,4 +91,8 @@ tasks.json
 
 Projeto desenvolvido com foco em **aprendizado técnico real**, demonstrando organização, clareza de código e entendimento do funcionamento de uma aplicação CLI em Node.js.
 
-📌 Documentação técnica detalhada disponível no repositório.
+## 📘 Documentação Técnica
+
+A documentação técnica completa do projeto, com detalhamento dos módulos, fluxo de execução e diagrama lógico do sistema, está disponível em:
+
+📄 `docs/documentacao-tecnica-tarefas-v1.0.0.pdf`
